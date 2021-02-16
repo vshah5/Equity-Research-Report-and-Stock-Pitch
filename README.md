@@ -1,0 +1,2 @@
+# Equity-Research-Report-and-Stock-Pitch
+This repository contains the equity research report (pdf), stock pitch slide deck (ppt), financial models (xl), and a couple other preliminary analysis slides all conducted for the purpose of researching Mead Johnson Nutrition company. All the documents were prepared by me for a potential investment opportunity when I was a Senior Analyst for the Student Investment Fund at the School of Accounting and Finance at the University of Waterloo.
